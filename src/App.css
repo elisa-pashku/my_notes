@@ -1,0 +1,21 @@
+* {
+  font-family: "Space Mono", monospace;
+}
+.column {
+  text-align: center;
+}
+.addButton {
+  background-color: #eebab2;
+}
+
+.logo {
+  font-size: 30px;
+}
+
+.singleNote {
+  margin: 20px auto;
+}
+
+.row {
+  margin: 20px auto;
+}
